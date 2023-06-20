@@ -1,3 +1,3 @@
 # Detection-service Documentation
 
-Detector 
+Detector App
